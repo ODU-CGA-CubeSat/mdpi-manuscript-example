@@ -1,0 +1,3 @@
+[submodule "mdpi-template"]
+	path = Definitions
+	url = https://github.com/ODU-CGA-CubeSat/mdpi-template.git
